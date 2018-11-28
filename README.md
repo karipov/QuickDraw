@@ -47,7 +47,7 @@ For each class, I take the first 10000 images, and then split them to training a
 
 ## Requirements
 
-* **python 3.6**
-* **cv2**
-* **pytorch** 
-* **numpy**
+Make sure all the requirements are satisfied by running the command in 
+the QuickDraw directory:
+
+`pip install -r requirements.txt`
